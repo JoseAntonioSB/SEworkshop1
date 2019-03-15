@@ -1,7 +1,8 @@
-int void main(int argc,char argc[])
+int main()
 {
-  int response = 0
-  for(size_t i = 0; i < count; i++)
+  int count, i = 0;
+  int response = 0;
+  for(i = 0; i < count; i++)
   {
     /* code */
   }
